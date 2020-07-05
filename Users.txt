@@ -1,7 +1,0 @@
-Primary-sreejeshraj
-Dev1-Anand dev1.anand.211@gmail.com J**@**20
-Dev2-Bob dev2.bob211@gmail.com
-Approver1-Charlie approver1.charlie@gmail.com
-QA1-Denny qa1.denny@gmail.com
-
-Ju*@20**
