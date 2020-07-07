@@ -1,3 +1,6 @@
 Dev1 - Line 1
 Dev1 - Line 2
-Dev2 - Line3 I write blah!
+Dev1 - Line3
+Dev1 - Line4
+Dev2 - Line3 I write blah! After merge
+
